@@ -2,7 +2,7 @@
 Enables one handed typing by using AutoHotKeys to mirror the keyboard when space is pressed
 
 ## Motivation
-As a new stay-at-home dad, that also runs his own business, I found that I need to type and program while holding a baby.  Existing half keyboard solutions are rediculously expensive () and, given the needs of the disabled community, its pretty shameful frankly.
+As a new stay-at-home dad, that also runs his own business, I found that I need to type and program while holding a baby.  Existing half keyboard solutions are [rediculously expensive](https://www.specialneedscomputers.ca/index.php?l=product_detail&p=153) and, given the needs of the disabled community, its pretty shameful frankly.
 
 ## Gratitude 
 I am deeply indebted to the work done by many people over the past decade or more to help make this work.  Feel free to fork, improve, clone and share this to make it fit with your desired use case.
