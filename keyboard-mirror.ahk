@@ -1,3 +1,8 @@
+#NoEnv  ; Recommended for performance and compatibility with future AutoHotkey releases.
+; #Warn  ; Enable warnings to assist with detecting common errors.
+SendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
+SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
+
 ; Source https://autohotkey.com/board/topic/1257-half-qwerty-one-handed-typing/
 ; Many thanks to Chris for helping me out with this script.
 
