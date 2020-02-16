@@ -15,5 +15,16 @@ The initial autohotkey file is from here: https://autohotkey.com/board/topic/125
 ## Installation Instructions
 
  1. Install [AutohotKey](https://www.autohotkey.com/)
- 2. Install the keymap file
+ 2. Copy `keyboard-mirror.ahk` to somewhere on your drive
+ 3. Double click `keyboard-mirror.ahk` to `Run Script`
+ 4. You're done!
+ 
+## Usage
+ * Press and hold **SHIFT** to mirror the right hand side of the keyboard on to the left
+ * To type `hello world` type `space + g, e, space+sso, space, w, space+w, r, space+s, d` 
 
+It takes a bit to learn but I'm already getting the hang of it, some report getting up to 60+ words a minute with this.
+
+**Life saving shortcuts:**
+ * Capslock is now backspace
+ * Ctrl + Space enables / disables this script
